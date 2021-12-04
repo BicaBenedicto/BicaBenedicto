@@ -43,7 +43,9 @@ Atualmente estou no final de Front-End pelo curso da Trybe e já tenho o conheci
 
 ### Repositórios Destaque
 
-[![Trybe Exercicios](https://github-readme-stats.vercel.app/api/pin/?username=bicabenedicto&repo=trybe-exercicios&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto/trybe-exercicios)
+[![Pixel Art](https://github-readme-stats.vercel.app/api/pin/?username=bicabenedicto&repo=pixel-art&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto/pixel-art)
+[![Trivia React Redux](https://github-readme-stats.vercel.app/api/pin/?username=bicabenedicto&repo=trivia-react-redux&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto/trivia-react-redux)
+[![Front-End Online Store](https://github-readme-stats.vercel.app/api/pin/?username=bicabenedicto&repo=front-end-online-store&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto/front-end-online-store)
 [![Portifolio](https://github-readme-stats.vercel.app/api/pin/?username=bicabenedicto&repo=BicaBenedicto.github.io&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto/BicaBenedicto.github.io)
 
 
