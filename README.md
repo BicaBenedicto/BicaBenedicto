@@ -5,7 +5,7 @@ Olá, sou Gabriel estudante de Desenvolvimento Web na _[Trybe](https://www.betry
 Um pouco sobre mim:
 
 Adoro aprender, sou dedicado, persistente, calmo, pensativo e tenho aquele leve toque quando vejo um problema.. de querer resolver :hammer:
-Atualmente estou no final de Front-End pelo curso da Trybe e já tenho o conhecimento de algumas tecnologias e no segundo semestre da faculdade.
+Atualmente estou no inicio de Back-End pelo curso da Trybe e já tenho o conhecimento de algumas tecnologias e no segundo semestre da faculdade.
 
 ![GIF](https://ektelion.gr/wp-content/uploads/PixelArtGameRoom.gif)
 
@@ -21,12 +21,12 @@ Atualmente estou no final de Front-End pelo curso da Trybe e já tenho o conheci
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Linguagens aprendendo:
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 
