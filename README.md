@@ -42,7 +42,7 @@ Atualmente estou no inicio de Back-End pelo curso da Trybe e já tenho o conheci
 
 ### GitHub Status
 
-| ![Git Status](https://github-readme-stats.vercel.app/api?username=bicabenedicto&show_icons=true&count_private=true&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bicabenedicto&layout=compact&theme=merko&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)] (https://github.com/BicaBenedicto) |
+| ![Git Status](https://github-readme-stats.vercel.app/api?username=bicabenedicto&show_icons=true&count_private=true&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bicabenedicto&layout=compact&theme=merko&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto) |
 |----|----|
 
 
