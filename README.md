@@ -9,6 +9,13 @@ Atualmente estou no inicio de Back-End pelo curso da Trybe e já tenho o conheci
 
 ![GIF](https://ektelion.gr/wp-content/uploads/PixelArtGameRoom.gif)
 
+### Contatos:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielpbenedicto@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbenedicto/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gabrielbenedicto)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511986629946)
+
 ### Linguagens, Framework e Bibliotecas conhecidas:
 
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,8 +29,9 @@ Atualmente estou no inicio de Back-End pelo curso da Trybe e já tenho o conheci
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 
-### Linguagens aprendendo:
+### Linguagens, Framework e Bibliotecas aprendendo:
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -34,30 +42,16 @@ Atualmente estou no inicio de Back-End pelo curso da Trybe e já tenho o conheci
 
 ### GitHub Status
 
-<div>
+| ![Git Status](https://github-readme-stats.vercel.app/api?username=bicabenedicto&show_icons=true&count_private=true&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bicabenedicto&layout=compact&theme=merko&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)] (https://github.com/BicaBenedicto) |
+|----|----|
 
-![Git Status](https://github-readme-stats.vercel.app/api?username=bicabenedicto&show_icons=true&count_private=true&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)
-
-</div>
-<div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bicabenedicto&layout=compact&theme=merko&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto)
-
-</div>
-<hr>
-
-### Contatos:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielpbenedicto@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbenedicto/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gabrielbenedicto)
 
 ### Repositórios Destaque
 
 [![Pixel Art](https://github-readme-stats.vercel.app/api/pin/?username=bicabenedicto&repo=pixel-art&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto/pixel-art)
-[![Trivia React Redux](https://github-readme-stats.vercel.app/api/pin/?username=bicabenedicto&repo=trivia-react-redux&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto/trivia-react-redux)
-[![Front-End Online Store](https://github-readme-stats.vercel.app/api/pin/?username=bicabenedicto&repo=front-end-online-store&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto/front-end-online-store)
-[![Portifolio](https://github-readme-stats.vercel.app/api/pin/?username=bicabenedicto&repo=BicaBenedicto.github.io&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto/BicaBenedicto.github.io)
+[![Drinks And Foods](https://github-readme-stats.vercel.app/api/pin/?username=bicabenedicto&repo=drinks-and-foods-recipes&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto/drinks-and-foods-recipes)
+[![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=bicabenedicto&repo=ecommerce&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto/ecommerce)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=bicabenedicto&repo=BicaBenedicto.github.io&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto/BicaBenedicto.github.io)
 
 
 ![Snake Animation](https://github.com/BicaBenedicto/BicaBenedicto/blob/output/github-contribution-grid-snake.svg)
