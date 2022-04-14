@@ -58,9 +58,9 @@ Atualmente estou no inicio de Back-End pelo curso da Trybe e já tenho o conheci
 
 ### Repositórios Destaque
 
-| [![Pixel Art](https://github-readme-stats.vercel.app/api/pin/?username=bicabenedicto&repo=pixel-art&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto/pixel-art) | [![Drinks And Foods](https://github-readme-stats.vercel.app/api/pin/?username=bicabenedicto&repo=drinks-and-foods-recipes&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto/drinks-and-foods-recipes) |
+| [![Vehicles Manager](https://github-readme-stats.vercel.app/api/pin/?username=bicabenedicto&repo=vehicles-manager&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto/vehicles-manager) | [![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=bicabenedicto&repo=ecommerce&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto/ecommerce) |
 | ------ | ------ |
-| [![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=bicabenedicto&repo=ecommerce&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto/ecommerce) | [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=bicabenedicto&repo=BicaBenedicto.github.io&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto/BicaBenedicto.github.io) |
+| [![Drinks And Foods](https://github-readme-stats.vercel.app/api/pin/?username=bicabenedicto&repo=drinks-and-foods-recipes&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto/drinks-and-foods-recipes) | [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=bicabenedicto&repo=BicaBenedicto.github.io&theme=merko&hide_title=true&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/BicaBenedicto/BicaBenedicto.github.io) |
 
 
 ![Snake Animation](https://github.com/BicaBenedicto/BicaBenedicto/blob/output/github-contribution-grid-snake.svg)
